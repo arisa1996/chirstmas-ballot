@@ -1,1 +1,2 @@
-# OuO
+# yarn
+# yarn serve
